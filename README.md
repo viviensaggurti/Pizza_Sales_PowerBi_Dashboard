@@ -6,7 +6,7 @@
 
 #### To analyze key indicators for pizza sales data and to gain insights into businessperformance. 
 
-To calculate the following metrics:
+#### To calculate the following metrics:
 
 1. Total Revenue
 2. Average Order Value
@@ -14,9 +14,9 @@ To calculate the following metrics:
 4. Total Orders
 5. Average Pizzas per order
 
-To visualize various aspects of pizza sales data to gain insights and understand key trends. 
+#### To visualize various aspects of pizza sales data to gain insights and understand key trends. 
 
-To identify the following requirements for creatib charts:
+#### To identify the following requirements for creatib charts:
 
 1. Daily Trends for Total Orders.
 2. Monthly Trends for Total Orders
